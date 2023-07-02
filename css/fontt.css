@@ -1,0 +1,24 @@
+body{
+    font-family: 'Nuosu SIL', serif;
+}
+
+h2{
+    font-style: italic;
+}
+.pt{
+    font-size: 17px;
+    padding-left: 35px;
+}
+.oi {
+    padding-right: 30px;
+    font-size: 15px;
+}
+
+tr .table{
+    background-color: black;
+}
+
+.tebel{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
